@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PatientAppServices.API/PatientAppServices.API.csproj" />
+    <Project Path="src/PatientAppServices.Application/PatientAppServices.Application.csproj" />
+    <Project Path="src/PatientAppServices.Domain/PatientAppServices.Domain.csproj" />
+    <Project Path="src/PatientAppServices.Infrastructure/PatientAppServices.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/PatientAppServices.Integrations/">
+    <Project Path="src/PatientAppServices.Integrations/PatientAppServices.DWH.Integration/PatientAppServices.DWH.Integration.csproj" Id="6011a168-889a-428f-a01a-0b2d7c1b394f" />
+    <Project Path="src/PatientAppServices.Integrations/PatientAppServices.EmailProvider.Integration/PatientAppServices.EmailProvider.Integration.csproj" Id="8068f556-d701-487c-ad37-b2ce49245bba" />
+    <Project Path="src/PatientAppServices.Integrations/PatientAppServices.SMSProvider.Integration/PatientAppServices.SMSProvider.Integration.csproj" Id="a399bf54-93c1-42f6-a880-bc0c50faa1bf" />
+    <Project Path="src/PatientAppServices.Integrations/PatientAppServices.Vida3.Integration/PatientAppServices.Vida3.Integration.csproj" Id="0f69b75e-2002-4a3e-89df-0c81526d8c90" />
+    <Project Path="src/PatientAppServices.Integrations/PatientAppServices.Vida4.Integration/PatientAppServices.Vida4.Integration.csproj" Id="16cc0101-42b4-4369-97a1-8537fe8c8d43" />
+    <Project Path="src/PatientAppServices.Integrations/PatientAppServices.WCF.Integration/PatientAppServices.WCF.Integration.csproj" Id="79301c10-5b5d-421f-9807-b7206a785712" />
+  </Folder>
+</Solution>
